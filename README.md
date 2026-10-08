@@ -1,19 +1,6 @@
-<!-- 
-  SETUP: Find & replace YOUR_USERNAME with your GitHub username
-  and YOUR_EMAIL with your email. Repo name must equal your username.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,45:0f3d3e,100:14b8a6&section=header&reversal=false&fontSize=0" width="100%" alt="banner" />
-
-<h1>JYOTI</h1>
-
-<h3>Computer Science Undergraduate</h3>
-
-<sub><b>WEB &nbsp;•&nbsp; DSA &nbsp;•&nbsp; BACKEND</b></sub>
-
-<br><br>
+<img src="./assets/header.svg" width="100%" alt="JYOTI - Computer Science Undergraduate" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=14B8A6&center=true&vCenter=true&width=620&lines=Full-stack+web+%C2%B7+React+%C2%B7+Node.js;Data+Structures+%26+Algorithms+in+Java;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Fixing+%E2%86%92+Improving" alt="Typing intro" />
@@ -169,12 +156,12 @@ I turn ideas into working products while preparing for real-world engineering ro
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=14b8a6&icon_color=F59E0B&text_color=c9d1d9&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&ring=14b8a6&fire=F59E0B&currStreakLabel=14b8a6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=true" alt="streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jyotikumar2604&show_icons=true&theme=transparent&title_color=14b8a6&icon_color=F59E0B&text_color=c9d1d9&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotikumar2604&theme=transparent&ring=14b8a6&fire=F59E0B&currStreakLabel=14b8a6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=true" alt="streak" />
 
 <br>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=14b8a6&text_color=c9d1d9&hide_border=true" alt="top languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotikumar2604&layout=compact&theme=transparent&title_color=14b8a6&text_color=c9d1d9&hide_border=true" alt="top languages" />
 
 <br><br>
 
@@ -210,10 +197,10 @@ I turn ideas into working products while preparing for real-world engineering ro
 
 <p>Open to internships, collaborations and good conversations about code.</p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/jyotikumar2604">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+<a href="https://www.linkedin.com/in/jyotikumar2604/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 <a href="mailto:YOUR_EMAIL@gmail.com">
